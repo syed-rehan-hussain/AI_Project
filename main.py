@@ -4,7 +4,6 @@ import numpy as np
 thres = 0.45
 nms_thres = 0.1
 # img = cv2.imread('lena.png')
-# cap = cv2.VideoCapture('rtsp://192.168.18.22:554/')
 cap = cv2.VideoCapture(0)
 
 # cap.set(3, 640)
